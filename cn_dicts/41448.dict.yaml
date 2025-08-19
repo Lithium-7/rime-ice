@@ -17,7 +17,7 @@
 #          这样小字表里存在的字按权重靠前排列，大字表殿后，生僻字自动就排在末尾。
 ---
 name: 41448
-version: "2025-08-10"
+version: "2025-08-01"
 sort: by_weight
 ...
 # 注释掉了一些
@@ -304,6 +304,8 @@ sort: by_weight
 𪁟	an
 𪒠	an
 𪘒	an
+𫛩	an
+𬸝	an
 㦹	ang
 㭿	ang
 㼜	ang
@@ -466,6 +468,8 @@ sort: by_weight
 𩼈	ao
 𪁾	ao
 𪃨	ao
+𪉑	ao
+𬸩	ao
 㔜	ba
 㖠	ba
 㞎	ba
@@ -1586,6 +1590,8 @@ sort: by_weight
 𪍪	bi
 𪏺	bi
 𪐄	bi
+𫜁	bi
+𱊏	bi
 㝸	bian
 㣐	bian
 㦚	bian
@@ -1724,6 +1730,7 @@ sort: by_weight
 𪏗	bian
 𪓍	bian
 𪖯	bian
+𬸜	bian
 㟽	biao
 㠒	biao
 㧼	biao
@@ -2417,6 +2424,7 @@ sort: by_weight
 𩺼	bu
 𩻗	bu
 𪇰	bu
+𬷕	bu
 䟃	ca
 䵽	ca
 嚓	ca
@@ -3618,6 +3626,7 @@ sort: by_weight
 𪁏	chen
 𪁧	chen
 𪕁	chen
+𮭦	chen
 㐼	cheng
 㛵	cheng
 㞼	cheng
@@ -4101,15 +4110,22 @@ sort: by_weight
 𩾕	chi
 𩿪	chi
 𪀦	chi
+𪄠	chi
 𪅍	chi
 𪅙	chi
+𪆟	chi
 𪆵	chi
+𪉄	chi
 𪉗	chi
 𪌫	chi
 𪌹	chi
 𪏐	chi
 𪏸	chi
 𫛶	chi
+𫛸	chi
+𬸈	chi
+𱊞	chi
+𲎅	chi
 㓼	chong
 㓽	chong
 㧤	chong
@@ -4333,6 +4349,7 @@ sort: by_weight
 𩌄	chou
 𩽀	chou
 𪇘	chou
+𬸍	chou
 㔘	chu
 㕏	chu
 㕑	chu
@@ -4511,6 +4528,7 @@ sort: by_weight
 𪆷	chu
 𪇆	chu
 𪓐	chu
+𬸅	chu
 䫄	chua
 䵵	chua
 欻	chua
@@ -4996,9 +5014,11 @@ sort: by_weight
 𩢑	ci
 𩨨	ci
 𩾔	ci
+𪉈	ci
 𪉪	ci
 𪑟	ci
 𪘲	ci
+𲍵	ci
 㗰	cong
 㼻	cong
 䉘	cong
@@ -5110,9 +5130,12 @@ sort: by_weight
 𨱸	cong
 𨲧	cong
 𨽁	cong
+𩀨	cong
 𩬼	cong
 𩯍	cong
+𪅜	cong
 𪻐	cong
+𬷿	cong
 㫶	cou
 傶	cou
 凑	cou
@@ -5870,6 +5893,7 @@ sort: by_weight
 𪀩	dan
 𪆻	dan
 𪒾	dan
+𱉗	dan
 䑗	dang
 䣊	dang
 䣣	dang
@@ -6637,6 +6661,7 @@ sort: by_weight
 𩈮	diao
 𩋙	diao
 𩾗	diao
+𫛲	diao
 㑙	die
 㥈	die
 㦅	die
@@ -7860,6 +7885,7 @@ sort: by_weight
 𪘊	e
 𪘐	e
 𪙯	e
+𫛩	e
 欸	ei
 誒	ei
 诶	ei
@@ -8203,6 +8229,7 @@ sort: by_weight
 𩧅	fan
 𩨩	fan
 𪖇	fan
+𬸪	fan
 㑂	fang
 㕫	fang
 㤃	fang
@@ -9197,6 +9224,8 @@ sort: by_weight
 𪍏	fu
 𫚒	fu
 𮔅	fu
+𱉺	fu
+𱊏	fu
 伽	ga
 呷	ga
 咖	ga
@@ -9412,6 +9441,7 @@ sort: by_weight
 𪊇	gan
 𪔆	gan
 𪚬	gan
+𱉊	gan
 㟠	gang
 㟵	gang
 㧏	gang
@@ -9737,6 +9767,7 @@ sort: by_weight
 𪃿	ge
 𪄎	ge
 𪌣	ge
+𱉮	ge
 給	gei
 给	gei
 㫔	gen
@@ -9951,6 +9982,7 @@ sort: by_weight
 𪄌	gong
 𪏠	gong
 𪏢	gong
+𮭥	gong
 㗕	gou
 㜌	gou
 㝅	gou
@@ -10723,6 +10755,7 @@ sort: by_weight
 𪈥	gui
 𪊧	gui
 𪏤	gui
+𱉤	gui
 㔳	gun
 㙥	gun
 㨰	gun
@@ -11237,6 +11270,8 @@ sort: by_weight
 𩼉	han
 𩾝	han
 𪁟	han
+𱉋	han
+𱉶	han
 㤚	hang
 䀪	hang
 䘕	hang
@@ -12347,6 +12382,7 @@ sort: by_weight
 𪕮	hu
 𪕱	hu
 𪙈	hu
+𱉓	hu
 㓰	hua
 㕦	hua
 㕲	hua
@@ -12693,6 +12729,8 @@ sort: by_weight
 𪈩	huan
 𪊥	huan
 𪍺	huan
+𫜅	huan
+𱉒	huan
 㞷	huang
 㠵	huang
 㤺	huang
@@ -12833,6 +12871,7 @@ sort: by_weight
 𪏍	huang
 𪏒	huang
 𪏙	huang
+𬸛	huang
 㑰	hui
 㑹	hui
 㒑	hui
@@ -14044,6 +14083,8 @@ sort: by_weight
 𪔋	ji
 𪘥	ji
 𰳁	ji
+𱉼	ji
+𱉽	ji
 㔠	jia
 㕅	jia
 㪴	jia
@@ -14637,6 +14678,8 @@ sort: by_weight
 𪒫	jian
 𪒹	jian
 𪙨	jian
+𫛚	jian
+𱊋	jian
 㢡	jiang
 㯍	jiang
 㹔	jiang
@@ -15339,6 +15382,7 @@ sort: by_weight
 𪃈	jie
 𪅸	jie
 𪇲	jie
+𪉋	jie
 𪉚	jie
 𪌧	jie
 𪑹	jie
@@ -15717,6 +15761,7 @@ sort: by_weight
 𩻱	jing
 𪂴	jing
 𪇒	jing
+𱉠	jing
 㑋	jiong
 㓏	jiong
 㖥	jiong
@@ -16245,6 +16290,7 @@ sort: by_weight
 𧾣	ju
 𧿻	ju
 𨁺	ju
+𨄙	ju
 𨋔	ju
 𨋧	ju
 𨍯	ju
@@ -16274,6 +16320,11 @@ sort: by_weight
 𪁥	ju
 𪂓	ju
 𪗖	ju
+𱉐	ju
+𱉘	ju
+𱊇	ju
+𱊌	ju
+𲃜	ju
 㢧	juan
 㢾	juan
 㪻	juan
@@ -16751,6 +16802,8 @@ sort: by_weight
 𨶊	jun
 𪍁	jun
 𪕞	jun
+𱉾	jun
+𱉿	jun
 㮟	ka
 䘔	ka
 佧	ka
@@ -17281,6 +17334,7 @@ sort: by_weight
 𧚬	kong
 𩲧	kong
 𪔣	kong
+𱊊	kong
 㓂	kou
 㔚	kou
 㲄	kou
@@ -17884,6 +17938,7 @@ sort: by_weight
 𩽞	kun
 𪋆	kun
 𪘩	kun
+𱉱	kun
 㗥	kuo
 㣪	kuo
 㨯	kuo
@@ -18121,6 +18176,7 @@ sort: by_weight
 𩳆	lai
 𪈈	lai
 𪑚	lai
+𱉵	lai
 㑣	lan
 㔋	lan
 㘓	lan
@@ -18352,6 +18408,7 @@ sort: by_weight
 𩳤	lang
 𩷕	lang
 𪁜	lang
+𬸏	lang
 㗦	lao
 㞠	lao
 㟉	lao
@@ -18454,6 +18511,7 @@ sort: by_weight
 𨲮	lao
 𪀧	lao
 𪁔	lao
+𱉦	lao
 㔹	le
 㖀	le
 㦡	le
@@ -19258,8 +19316,11 @@ sort: by_weight
 𪗁	li
 𪙺	li
 𪙽	li
+𫁡	li
 𫐆	li
 𫟷	li
+𬸎	li
+𱊃	li
 俩	lia
 倆	lia
 㜃	lian
@@ -20414,6 +20475,7 @@ sort: by_weight
 𩙘	long
 𩙠	long
 𩟭	long
+𪈗	long
 𪐖	long
 𪔕	long
 𪔳	long
@@ -20423,6 +20485,8 @@ sort: by_weight
 𪚘	long
 𪚝	long
 𪚠	long
+𫛟	long
+𬸄	long
 㔷	lou
 㟺	lou
 㡞	lou
@@ -20798,12 +20862,14 @@ sort: by_weight
 𩛼	lu
 𩣱	lu
 𩯜	lu
+𪂚	lu
 𪉖	lu
 𪉣	lu
 𪍄	lu
 𪑄	lu
 𪒏	lu
 𪖌	lu
+𱊀	lu
 㝈	luan
 㡩	luan
 㰸	luan
@@ -21091,6 +21157,8 @@ sort: by_weight
 𪌳	luo
 𪎆	luo
 𪑋	luo
+𱉮	luo
+𱊮	luo
 㠥	lv
 㲶	lv
 䕡	lv
@@ -21201,6 +21269,7 @@ sort: by_weight
 𩳡	lv
 𩴐	lv
 𪈜	lv
+𬸞	lv
 㔀	lve
 㗉	lve
 㨼	lve
@@ -22043,6 +22112,7 @@ sort: by_weight
 𪅇	meng
 𪇓	meng
 𪈆	meng
+𲎈	meng
 㘠	mi
 㜆	mi
 㜷	mi
@@ -22906,6 +22976,7 @@ sort: by_weight
 𨴍	mou
 𩢫	mou
 𩶢	mou
+𱉲	mou
 㒇	mu
 㙁	mu
 㜈	mu
@@ -25128,7 +25199,9 @@ sort: by_weight
 𪌈	pi
 𪖞	pi
 𪛎	pi
+𫛨	pi
 𱇒	pi
+𱉖	pi
 㓲	pian
 㛹	pian
 㸤	pian
@@ -25188,6 +25261,7 @@ sort: by_weight
 𨲜	pian
 𨵸	pian
 𪘀	pian
+𬸜	pian
 㩠	piao
 㬓	piao
 㯱	piao
@@ -25685,6 +25759,7 @@ sort: by_weight
 𪒢	pu
 𪔿	pu
 𪖈	pu
+𬷕	pu
 㒅	qi
 㓗	qi
 㓞	qi
@@ -26189,6 +26264,9 @@ sort: by_weight
 𪗍	qi
 𪗏	qi
 𪙧	qi
+𫛰	qi
+𬸒	qi
+𱊁	qi
 㓞	qia
 㓣	qia
 㓤	qia
@@ -26557,6 +26635,7 @@ sort: by_weight
 𪉻	qian
 𪑙	qian
 𪘦	qian
+𫛚	qian
 㛨	qiang
 㩖	qiang
 䅚	qiang
@@ -27292,6 +27371,7 @@ sort: by_weight
 𩬛	qiong
 𩬰	qiong
 𪀛	qiong
+𬸉	qiong
 㐀	qiu
 㐤	qiu
 㕤	qiu
@@ -28207,6 +28287,7 @@ sort: by_weight
 𩑉	ren
 𩵕	ren
 𪔺	ren
+𬸊	ren
 㭁	reng
 㺱	reng
 䄧	reng
@@ -29150,6 +29231,7 @@ sort: by_weight
 𩵮	sha
 𪄅	sha
 𪌮	sha
+𬸌	sha
 㩄	shai
 㬠	shai
 䵘	shai
@@ -29816,6 +29898,7 @@ sort: by_weight
 䞉	sheng
 䪿	sheng
 䱆	sheng
+䲼	sheng
 乗	sheng
 乘	sheng
 偗	sheng
@@ -29910,6 +29993,7 @@ sort: by_weight
 𨵥	sheng
 𩍋	sheng
 𪅻	sheng
+𬸆	sheng
 㒾	shi
 㔺	shi
 㕜	shi
@@ -30683,6 +30767,7 @@ sort: by_weight
 𩆿	shuang
 𩦌	shuang
 𩽧	shuang
+𮭪	shuang
 㔑	shui
 㝽	shui
 㥨	shui
@@ -31068,7 +31153,9 @@ sort: by_weight
 𩩺	song
 𩮀	song
 𪀚	song
+𪁿	song
 𪨊	song
+𬸔	song
 㖩	sou
 㟬	sou
 㵻	sou
@@ -32275,6 +32362,7 @@ sort: by_weight
 𩹴	tao
 𪇘	tao
 𪌼	tao
+𬸍	tao
 㥂	te
 㧹	te
 忑	te
@@ -32550,6 +32638,7 @@ sort: by_weight
 𪍲	ti
 𪕩	ti
 𪖦	ti
+𫛸	ti
 㐁	tian
 㖭	tian
 㙉	tian
@@ -33231,7 +33320,9 @@ sort: by_weight
 𩣮	tu
 𩥽	tu
 𩸃	tu
+𪉍	tu
 𪑏	tu
+𱉸	tu
 㩛	tuan
 䊜	tuan
 䜝	tuan
@@ -33283,6 +33374,7 @@ sort: by_weight
 𩠹	tuan
 𪈋	tuan
 𪏖	tuan
+𱉏	tuan
 㞂	tui
 㢈	tui
 㢑	tui
@@ -33606,6 +33698,7 @@ sort: by_weight
 𪌂	tuo
 𪘕	tuo
 𪘗	tuo
+𱉻	tuo
 㒝	wa
 㧚	wa
 㰪	wa
@@ -34522,7 +34615,9 @@ sort: by_weight
 𩢌	wen
 𩥈	wen
 𩭋	wen
+𪉃	wen
 𪉸	wen
+𬸀	wen
 㘢	weng
 㜲	weng
 㹙	weng
@@ -34972,6 +35067,7 @@ sort: by_weight
 𩻚	wu
 𪄝	wu
 𪑱	wu
+𱉞	wu
 㑶	xi
 㒆	xi
 㔒	xi
@@ -35517,6 +35613,7 @@ sort: by_weight
 𪓷	xi
 𪕯	xi
 𪖥	xi
+𱉹	xi
 㗇	xia
 㗿	xia
 㘡	xia
@@ -36254,6 +36351,7 @@ sort: by_weight
 𩡠	xiang
 𩾬	xiang
 𪂼	xiang
+𱉯	xiang
 㑾	xiao
 㒆	xiao
 㔅	xiao
@@ -37812,6 +37910,8 @@ sort: by_weight
 𩖶	xue
 𩶫	xue
 𪃅	xue
+𪈔	xue
+𱊉	xue
 㚯	xun
 㜄	xun
 㝁	xun
@@ -38153,6 +38253,7 @@ sort: by_weight
 𪗹	ya
 𪘬	ya
 𪘲	ya
+𱉨	ya
 㒆	yan
 㓧	yan
 㕣	yan
@@ -38635,6 +38736,10 @@ sort: by_weight
 𪗙	yan
 𪗤	yan
 𪙊	yan
+𫛩	yan
+𬸖	yan
+𬸘	yan
+𱊴	yan
 㔦	yang
 㟅	yang
 㦹	yang
@@ -38807,6 +38912,7 @@ sort: by_weight
 𪕫	yang
 𪚻	yang
 𫚐	yang
+𱉯	yang
 㑸	yao
 㑾	yao
 㓞	yao
@@ -39282,6 +39388,7 @@ sort: by_weight
 𪍅	ye
 𪑦	ye
 𪒲	ye
+𲍿	ye
 㐆	yi
 㐌	yi
 㐹	yi
@@ -40098,6 +40205,10 @@ sort: by_weight
 𪘬	yi
 𪘲	yi
 𪙴	yi
+𬷻	yi
+𱉇	yi
+𱉌	yi
+𱉩	yi
 㐆	yin
 㐺	yin
 㕂	yin
@@ -40633,6 +40744,7 @@ sort: by_weight
 𩻷	ying
 𪊵	ying
 𬎆	ying
+𬸕	ying
 𮐨	ying
 哟	yo
 唷	yo
@@ -41641,6 +41753,7 @@ sort: by_weight
 𪃍	yu
 𪃎	yu
 𪇝	yu
+𪉐	yu
 𪊻	yu
 𪋉	yu
 𪋬	yu
@@ -41650,7 +41763,9 @@ sort: by_weight
 𪑝	yu
 𪓊	yu
 𫚪	yu
+𫛬	yu
 𮬛	yu
+𱉸	yu
 㘣	yuan
 㛪	yuan
 㟲	yuan
@@ -41859,6 +41974,8 @@ sort: by_weight
 𪔗	yuan
 𪔙	yuan
 𪕀	yuan
+𱉧	yuan
+𱊒	yuan
 㜧	yue
 㜰	yue
 㧒	yue
@@ -42022,6 +42139,7 @@ sort: by_weight
 𪁑	yue
 𪒥	yue
 𪘳	yue
+𬸚	yue
 㒁	yun
 㚃	yun
 㚞	yun
@@ -42186,6 +42304,7 @@ sort: by_weight
 𩏅	yun
 𩏆	yun
 𩴉	yun
+𪉂	yun
 𪍝	yun
 𪏔	yun
 𪏚	yun
@@ -43108,6 +43227,7 @@ sort: by_weight
 𪏉	zhan
 𪗦	zhan
 𪘪	zhan
+𫛚	zhan
 𰲳	zhan
 㕩	zhang
 㙊	zhang
@@ -44895,6 +45015,7 @@ sort: by_weight
 𪋰	zhu
 𪏿	zhu
 𪚹	zhu
+𱉫	zhu
 抓	zhua
 挝	zhua
 撾	zhua
@@ -45116,6 +45237,8 @@ sort: by_weight
 𩪀	zhui
 𩬳	zhui
 𪋇	zhui
+𱊅	zhui
+𲍾	zhui
 㡒	zhun
 准	zhun
 凖	zhun
@@ -45502,6 +45625,7 @@ sort: by_weight
 𪗉	zi
 𪗋	zi
 𪗐	zi
+𱊎	zi
 㙡	zong
 㚇	zong
 㢔	zong
